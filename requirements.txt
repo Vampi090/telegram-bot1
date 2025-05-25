@@ -1,0 +1,7 @@
+requests
+matplotlib
+gspread
+oauth2client
+python-telegram-bot
+python-telegram-bot[job-queue]
+openpyxl
